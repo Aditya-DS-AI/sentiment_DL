@@ -16,7 +16,7 @@ with 1000 samples and 50 Features with LSTM Neural Network
 st.sidebar.title("About Developer")
 st.sidebar.write("""
 Name: Sonu Kumar\n
-Mob:  +919898989899
+Mob:  +919898989897
 """)
 
 
